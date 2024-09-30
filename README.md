@@ -1,2 +1,0 @@
-# ShayaSystem
-## lorem
