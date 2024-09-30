@@ -4,3 +4,4 @@ gray
 brown
 green
 yellow
+pink
